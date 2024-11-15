@@ -1,0 +1,13 @@
+{
+  "name": "my-clustered-app",
+  "version": "1.0.0",
+  "description": "Use of multi core cpus in nodejs application",
+  "main": "cluster-server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node cluster-server.js"
+  },
+  "author": "Ashish Rathore",
+  "license": "ISC"
+}
